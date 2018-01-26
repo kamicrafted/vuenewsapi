@@ -1,6 +1,7 @@
-# newsapi
+# vue-newsapi
 
-> A Vue.js project
+> Following along this [article](https://medium.com/codingthesmartway-com-blog/vue-js-2-vue-resource-real-world-vue-application-with-external-api-access-c3de83f25c00)
+
 
 ## Build Setup
 
